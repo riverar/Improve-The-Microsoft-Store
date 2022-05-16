@@ -9,3 +9,4 @@ This list will be updated over time. We'll also remove apps from the list once t
 - Tutor for VPN https://www.microsoft.com/store/productId/9NK5SG3KJTG1
 - Driver Download for Canon Printer https://www.microsoft.com/store/productId/9MVKZW06XC8B
 - YouTube Download for Windows https://www.microsoft.com/store/productId/9NFMKPLRG42M
+- Real Ebooks Reader For Kindle On Windows https://www.microsoft.com/store/productId/9P1B3NTMVSPZ
